@@ -18,7 +18,7 @@ This Angular application allows users to interact with the GitHub API to search 
 ## Getting Started
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/github-sphiwe.git
+   git clone https://github.com/baloyijs/AngularGitTest
 ## Navigate to the project directory:
 cd github-api-client
 
